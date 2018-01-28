@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154235940422",
+    "project_id": "cravezapp-193516"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154235940422:android:bf218087c45fcd29",
+        "android_client_info": {
+          "package_name": "org.cravez.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154235940422-nl094osi37th1t95juommtunuiprlrfd.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "154235940422-3ihp6v11obtva6ba4jek1l84mpeunto4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.cravez.in",
+            "certificate_hash": "93bb3d4470e9ba4f16b17d5a4b611e2aa499a78c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSic6zi1CD4wOdX5vn_XH9emd1SlhwLZk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

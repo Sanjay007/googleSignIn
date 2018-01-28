@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CravezIndia</string>
+    <string name="server_clientid">YOUR API KEY</string>
+
+</resources>
